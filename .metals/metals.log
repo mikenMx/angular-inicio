@@ -1,0 +1,14 @@
+[0m2021.02.14 21:30:22 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\dj_ja\Documents\udemy\Angular\bases' for client vscode 1.53.2.[0m
+[0m2021.02.14 21:30:25 INFO  time: initialize in 3.39s[0m
+[0m2021.02.14 21:30:29 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.14 21:30:29 WARN  no build tool detected in workspace 'C:\Users\dj_ja\Documents\udemy\Angular\bases'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.14 22:54:11 INFO  shutting down Metals[0m
+[0m2021.02.15 23:04:38 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\dj_ja\Documents\udemy\Angular\bases' for client vscode 1.53.2.[0m
+[0m2021.02.15 23:04:44 INFO  time: initialize in 6.71s[0m
+[0m2021.02.15 23:04:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.15 23:04:50 WARN  no build tool detected in workspace 'C:\Users\dj_ja\Documents\udemy\Angular\bases'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.16 00:49:32 INFO  shutting down Metals[0m
+[0m2021.02.17 12:43:27 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\dj_ja\Documents\udemy\Angular\bases' for client vscode 1.53.2.[0m
+[0m2021.02.17 12:43:34 INFO  time: initialize in 7.51s[0m
+[0m2021.02.17 12:43:46 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.17 12:43:46 WARN  no build tool detected in workspace 'C:\Users\dj_ja\Documents\udemy\Angular\bases'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
